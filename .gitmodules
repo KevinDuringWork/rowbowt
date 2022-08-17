@@ -6,7 +6,7 @@
 	url = https://github.com/xxsds/sdsl-lite
 [submodule "pfbwt-f"]
 	path = pfbwt-f
-	url = https://github.com/alshai/pfbwt-f
+	url = https://github.com/KevinDuringWork/pfbwt-f
 [submodule "faster-minuter"]
 	path = faster-minuter
 	url = https://github.com/dominikkempa/faster-minuter.git
